@@ -18,8 +18,8 @@
 * [Static Mesh Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/659)
 * [Natural Eyes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10099)
 * Tempered Skins for Males
-** [part 1] (https://www.nexusmods.com/skyrimspecialedition/mods/7902)
-** [part 2] (https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
+* * [part 1](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
+* * [part 2](https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
 * [Bijin All in One-SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11)
 * [Bijin NPCs SE](https://www.nexusmods.com/skyrimspecialedition/mods/11287)
 * [Bijin Warmaidens SE](https://www.nexusmods.com/skyrimspecialedition/mods/1825)
@@ -35,15 +35,15 @@
 # Dialogue
 * [Marriage Mod - To Have And To Hold](https://www.nexusmods.com/skyrimspecialedition/mods/8589)
 * Relationship Dialogue Overhaul
-** [AFT SE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/1187)
-** [Final](https://www.nexusmods.com/skyrimspecialedition/mods/1187)
+* * [AFT SE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/1187)
+* * [Final](https://www.nexusmods.com/skyrimspecialedition/mods/1187)
 
 # Enhancements
 * [Enhanced Blood Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
 * [Lanterns of Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/2429)
 * Campfire - Complete Camping System
-** [Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/667)
-** [Complete Camping System](https://www.nexusmods.com/skyrimspecialedition/mods/667)
+* * [Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/667)
+* * [Complete Camping System](https://www.nexusmods.com/skyrimspecialedition/mods/667)
 * [My Home is Your Home](https://www.nexusmods.com/skyrimspecialedition/mods/7096)
 * [Simply Knock SE](https://www.nexusmods.com/skyrimspecialedition/mods/14098)
 
@@ -52,8 +52,8 @@
 * [Immersive Patrols SE](https://www.nexusmods.com/skyrimspecialedition/mods/718)
 * [Immersive Amazing Follower Tweaks SE](https://www.nexusmods.com/skyrimspecialedition/mods/14722)
 * Immersive Bookreading and Lockpicking 
-** [Immersive Bookreading](https://www.nexusmods.com/skyrimspecialedition/mods/4541)
-** [Immersive lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/4541)
+* * [Immersive Bookreading](https://www.nexusmods.com/skyrimspecialedition/mods/4541)
+* * [Immersive lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/4541)
 * [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440)
 * [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479)
 * [Reasonable Movement Speed](https://www.nexusmods.com/skyrimspecialedition/mods/3422)
