@@ -46,6 +46,7 @@
 * [Lanterns of Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/2429)
 * [My Home is Your Home](https://www.nexusmods.com/skyrimspecialedition/mods/7096)
 * [Simply Knock SE](https://www.nexusmods.com/skyrimspecialedition/mods/14098)
+* [Simple Vampire Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/15567) 
 
 # Immersion
 * [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804)
@@ -59,6 +60,7 @@
 * [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440)
 * [Immersive Patrols SE](https://www.nexusmods.com/skyrimspecialedition/mods/718)
 * [Reasonable Movement Speed](https://www.nexusmods.com/skyrimspecialedition/mods/3422)
+* [Simply Killable Children](https://www.nexusmods.com/skyrimspecialedition/mods/12576)
 
 # Tools
 * [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
