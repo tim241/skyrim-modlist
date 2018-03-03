@@ -46,7 +46,8 @@
 * [Lanterns of Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/2429)
 * [My Home is Your Home](https://www.nexusmods.com/skyrimspecialedition/mods/7096)
 * [Simply Knock SE](https://www.nexusmods.com/skyrimspecialedition/mods/14098)
-* [Simple Vampire Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/15567) 
+* [Simple Vampire Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/15567)
+* [Simply Balanced](https://www.nexusmods.com/skyrimspecialedition/mods/15541)
 
 # Immersion
 * [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804)
