@@ -82,6 +82,6 @@
 * [Hunterborn - Scrimshaw Expanded SSE](https://www.nexusmods.com/skyrimspecialedition/mods/9775)
 
 # Tools
-* [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
+* [SSEEDIT](https://www.nexusmods.com/skyrimspecialedition/mods/164)
 * [FallrimTools - Script cleaner and more](https://www.nexusmods.com/skyrimspecialedition/mods/5031)
 
