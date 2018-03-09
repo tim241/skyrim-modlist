@@ -42,6 +42,7 @@
 * [Simple Vampire Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/15567)
 * [Simply Balanced](https://www.nexusmods.com/skyrimspecialedition/mods/15541)
 * [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272)
+* [Clean Menu](https://www.nexusmods.com/skyrimspecialedition/mods/3223)
 
 # Immersion
 * [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804)
