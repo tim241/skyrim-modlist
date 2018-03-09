@@ -1,7 +1,6 @@
 # Patches
 
 * [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266)
-* [Unofficial Skyrim Survival Patch](https://www.nexusmods.com/skyrimspecialedition/mods/12655)
 
 # Must have
 
@@ -24,10 +23,7 @@
 * [RUSTIC CLOTHING](https://www.nexusmods.com/skyrimspecialedition/mods/4703)
 * [Seranholic by rxkx22](https://www.nexusmods.com/skyrimspecialedition/mods/13027)
 * [Static Mesh Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/659)
-* Tempered Skins for Males
-* * [part 1](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
-* * [part 2](https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
-* [XP32 Maximum Skeleton Special Extended](https://www.nexusmods.com/skyrimspecialedition/mods/1988)
+* [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
 
 # AI
 * [Spouse's freedom for SE](https://www.nexusmods.com/skyrimspecialedition/mods/8742)
@@ -39,15 +35,13 @@
 * * [Final](https://www.nexusmods.com/skyrimspecialedition/mods/1187)
 
 # Enhancements
-* Campfire - Complete Camping System
-* * [Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/667)
-* * [Complete Camping System](https://www.nexusmods.com/skyrimspecialedition/mods/667)
 * [Enhanced Blood Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
 * [Lanterns of Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/2429)
 * [My Home is Your Home](https://www.nexusmods.com/skyrimspecialedition/mods/7096)
 * [Simply Knock SE](https://www.nexusmods.com/skyrimspecialedition/mods/14098)
 * [Simple Vampire Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/15567)
 * [Simply Balanced](https://www.nexusmods.com/skyrimspecialedition/mods/15541)
+* [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272)
 
 # Immersion
 * [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804)
@@ -63,11 +57,13 @@
 * [Reasonable Movement Speed](https://www.nexusmods.com/skyrimspecialedition/mods/3422)
 * [Simply Killable Children](https://www.nexusmods.com/skyrimspecialedition/mods/12576)
 
+# Survival
+* [iNeed](https://www.nexusmods.com/skyrimspecialedition/mods/645)
+* [Wet and Cold](https://www.nexusmods.com/skyrimspecialedition/mods/644)
+* [Campfire - Complete Camping System](https://www.nexusmods.com/skyrimspecialedition/mods/667)
+* [Warm Drinks SSE](https://www.nexusmods.com/skyrimspecialedition/mods/14645)
+
 # Tools
 * [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
 * [FallrimTools - Script cleaner and more](https://www.nexusmods.com/skyrimspecialedition/mods/5031)
 
-# Adult
-* [Abduction](https://www.loverslab.com/files/file/4058-abduction-sse/)
-* [SexLab Light SE](https://www.loverslab.com/files/file/4432-sexlab-light-se/)
-* [Spouses Enhanced](https://www.loverslab.com/files/file/2143-spouses-enhanced-173-14-oct-2015/)
