@@ -1,19 +1,16 @@
 # Patches
 
+* [Bring Out Your Dead](https://www.nexusmods.com/skyrimspecialedition/mods/323)
+* [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428)
+* [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429)
 * [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266)
 
 # Must have
 
 * [Achievements Mods Enabler](https://www.nexusmods.com/skyrimspecialedition/mods/245/)
-* [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428)
 * [Interesting NPCs SSE](http://3dnpc.com/)
 * [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
 * [skse64](http://skse.silverlock.org/)
-
-# TK
-* [TK Dodge SE](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
-* [TK HitStop SE](https://www.nexusmods.com/skyrimspecialedition/mods/14904)
-* [TK Recoil SE](https://www.nexusmods.com/skyrimspecialedition/mods/14905)
 
 # Replacements
 * [Bijin All in One-SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11)
@@ -47,6 +44,9 @@
 * [Simply Balanced](https://www.nexusmods.com/skyrimspecialedition/mods/15541)
 * [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272)
 * [Clean Menu](https://www.nexusmods.com/skyrimspecialedition/mods/3223)
+* [Skyrim Better Roads](https://www.nexusmods.com/skyrimspecialedition/mods/2640)
+* [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090)
+* [Simply Stronger Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/9917)
 
 # Immersion
 * [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804)
@@ -64,9 +64,14 @@
 * [Wayshrines of Old](https://www.nexusmods.com/skyrimspecialedition/mods/8863)
 * [Skyrim Disable Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/1003)
 * [Immersive Movement](https://www.nexusmods.com/skyrimspecialedition/mods/15649)
+* [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519)
+* [Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717)
+* [Better Creature Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10523)
+* [Adeptised - Weapon and Magic Damage Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/12317)
 
 # Survival
-* [iNeed](https://www.nexusmods.com/skyrimspecialedition/mods/645)
+* [Realistic Needs and Diseases All-In-One](https://www.nexusmods.com/skyrimspecialedition/mods/3487)
+* [Realistic Needs and Diseases - Frostfall patch](https://www.nexusmods.com/skyrimspecialedition/mods/3502)
 * [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)
 * [Wet And Cold](https://www.nexusmods.com/skyrimspecialedition/mods/644)
 * [Campfire - Complete Camping System](https://www.nexusmods.com/skyrimspecialedition/mods/667)
@@ -74,12 +79,27 @@
 * [No More Passive Health Regeneration](https://www.nexusmods.com/skyrimspecialedition/mods/15447)
 
 # Weapons
+* [Real bows](https://www.nexusmods.com/skyrimspecialedition/mods/3144)
+* [Real Bound Bow](https://www.nexusmods.com/skyrimspecialedition/mods/3383)
 * [Winter Archer Pack](https://www.nexusmods.com/skyrimspecialedition/mods/5852)
 * [LeanWolf's Better-Shaped Weapons SE](https://www.nexusmods.com/skyrimspecialedition/mods/2017)
 
 # Hunting 
 * [Hunterborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/7900)
 * [Hunterborn - Scrimshaw Expanded SSE](https://www.nexusmods.com/skyrimspecialedition/mods/9775)
+
+# Combat
+* [TK HitStop SE](https://www.nexusmods.com/skyrimspecialedition/mods/14904)
+* [TK Recoil SE](https://www.nexusmods.com/skyrimspecialedition/mods/14905)
+* [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
+* [Wildcat Combat and Immersive Movement compatibility patch](https://www.nexusmods.com/skyrimspecialedition/mods/15710)
+
+# Diverse
+* [Diverse Dragons Collection SE](https://www.nexusmods.com/skyrimspecialedition/mods/695)
+* [Beasts of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/5404)
+
+# Sound
+* [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466)
 
 # Tools
 * [SSEEDIT](https://www.nexusmods.com/skyrimspecialedition/mods/164)
