@@ -67,7 +67,6 @@
 * [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519)
 * [Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717)
 * [Better Creature Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10523)
-* [Adeptised - Weapon and Magic Damage Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/12317)
 
 # Survival
 * [Realistic Needs and Diseases All-In-One](https://www.nexusmods.com/skyrimspecialedition/mods/3487)
